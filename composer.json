@@ -1,4 +1,10 @@
 {
+    "name": "mahmoudfathy/mvcapp",
+    "description": "mvc app",
+    "require": {
+        "php": "^7.2",
+        "another-vendor/package": "1.*"
+    },
     "autoload":{
         "psr-4": {
             "MVC\\": "app"
